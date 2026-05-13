@@ -42,7 +42,6 @@ Características del dataset:
 - Formato CSV.
 - Información utilizada en investigaciones y análisis climáticos.
 
-El dataset se almacena dentro de la carpeta:
 
-```bash
-/datos# OE_Unid4_Datos-climaticos-globales
+
+
